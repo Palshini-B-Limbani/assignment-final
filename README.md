@@ -1,9 +1,11 @@
-# Jenkins Webhook Demo App
+# Assignment Final
 
-This is a simple web app used to demonstrate:
-GitHub → Jenkins Webhook → CI Pipeline
+This project is a simple webhook-based application to test:
 
-Steps:
-1. Push code to GitHub
-2. GitHub webhook triggers Jenkins
-3. Jenkins pipeline runs automatically
+GitHub → Jenkins → CI/CD Pipeline
+
+## Pipeline Stages
+- Checkout
+- Build
+- Test
+- Deploy
