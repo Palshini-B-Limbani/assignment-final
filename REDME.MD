@@ -1,6 +1,6 @@
 # Assignment Final
 
-This project is a simple webhook-based application to test:
+This project is a simple webhook-based application to test clear:
 
 GitHub → Jenkins → CI/CD Pipeline
 
